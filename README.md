@@ -1,1 +1,1 @@
-Hi im joe walmart I will not use git hub that much other then for like sites
+Hi im joe walmart I will not use git hub that much 
