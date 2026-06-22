@@ -1,3 +1,1 @@
-Hi im joe walmart
-
-rest in peace tung tung tung suhar
+Hi im joe walmart I will not use git hub that much other then for like sites
