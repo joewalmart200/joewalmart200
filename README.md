@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://kommodo.ai/i/2coFp9cv8nMVCOF5ROQa"/> </p>
 <h1 align="center">Wsg im Joe walmart</h1>
 <h3 align="center">I probably wont use git hub that much</h3>
 
