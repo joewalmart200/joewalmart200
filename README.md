@@ -1,4 +1,4 @@
-<p align="left"> <img src="[![IMG-5870.jpg](https://i.postimg.cc/7ZjVPbJN/IMG-5870.jpg)](https://postimg.cc/RWQfXSR3)"/> </p>
+<p align="left"> <img src="<a href='https://postimg.cc/RWQfXSR3' target='_blank'><img src='https://i.postimg.cc/RWQfXSR3/IMG-5870.jpg' border='0' alt='IMG-5870'></a>"/> </p>
 <h1 align="center">Wsg im Joe walmart</h1>
 <h3 align="center">I probably wont use git hub that much</h3>
 
