@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I’m joewalmart and im currently trying to learn python.
+Hello I’m joewalmart and im currently trying to learn python. 
 
 
 # 💻 Tech Stack:
