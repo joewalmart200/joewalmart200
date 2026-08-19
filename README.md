@@ -6,7 +6,7 @@
 
 ### Discord
 
-[Discord User](https://discord.com/1399124510304632982)
+[Discord](https://discord.com/1399124510304632982)
 
 ### TikTok
 
