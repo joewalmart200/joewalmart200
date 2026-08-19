@@ -1,20 +1,21 @@
-wsg I’m Joe.
+# Wsg, I’m Joe.
 
-## contact me
+## Contact Me
 
-———-
+---
 
-#### discord 
+### Discord
 
-———-
+[Discord User](https://discord.com/1399124510304632982)
 
-[discord user] (https://discord.com/1399124510304632982
+### TikTok
 
-[tiktok] (https://www.tiktok.com/@joewalmart)
+[TikTok](https://www.tiktok.com/@joewalmart)
 
-[youtube] (https://www.youtube.com/@Joe-walmart)
+### YouTube
 
+[YouTube](https://www.youtube.com/@Joe-walmart)
 
+---
 
-
-mb if this looks ass I’m shit at markdown.
+mb if this looks ass, I’m shit at Markdown 
