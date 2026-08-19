@@ -2,11 +2,11 @@ wsg I’m Joe.
 
 ## contact me
 
-———
+———-
 
 #### discord 
 
-———
+———-
 
 [discord user] (https://discord.com/1399124510304632982
 
