@@ -6,7 +6,7 @@
 
 ### Discord
 
-[Discord](https://discord.com/@me/1399124510304632982)
+[Discord](https://discord.com/channels/@me/1537903184176095232)
 
 ### TikTok
 
