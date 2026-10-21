@@ -1,4 +1,3 @@
-
 hi I’m Joe.
 
 I’m from Pennsylvania
