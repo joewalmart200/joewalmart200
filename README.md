@@ -6,4 +6,6 @@ I like cats and math
 
 Клод❤️ 
 
-That’s all😀
+bro what the freak fart
+
+That’s all
