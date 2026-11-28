@@ -2,7 +2,7 @@ Hello I am Joe
 
 I am from I’m from Pennsylvania
 
-I like cats and math
+I like cats 
 
 Клод❤️ 
 
